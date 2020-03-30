@@ -207,3 +207,4 @@ ad-hoc
 rebased
 workspaces
 ZapierL
+SAML2
