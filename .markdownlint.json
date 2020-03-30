@@ -1,0 +1,17 @@
+{
+    "default": true,
+    "whitespace": false,
+    "line_length": false,
+    "ul-start-left": false,
+    "ul-style": {
+        "style": "consistent"
+    },
+    "ul-indent": false,
+    "ol-prefix": {
+        "style": "one_or_ordered"
+    },
+    "no-inline-html": false,
+    "no-bare-urls": false,
+    "no-duplicate-heading": false,
+    "first-line-h1": false
+}
