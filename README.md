@@ -2,6 +2,10 @@
 
 **Due to the nature of our product and client-base we are only able to hire US citizens at this time.**
 
+\==========================================================================================
+\================================== **NO RECRUITERS** =========================================
+\==========================================================================================
+
 ## About ZibaSec
 
 We’re an early stage, funded, stealth-mode startup focused on helping organizations improve their security posture through tools that are simple yet robust with a focus on making it harder for attackers to exploit the people within an organization.
