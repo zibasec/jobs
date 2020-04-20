@@ -21,7 +21,7 @@ Some days you’d be working directly with the founders to architect the backend
     * Node
     * Python
     * Golang
-    * Linux
+  * Linux
   * Working with the AWS SDK
   * Writing CLIs
   * CI/CD architectures
