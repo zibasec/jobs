@@ -46,6 +46,9 @@ We are a growing company and can promise you the following:
 
 * **Open Source is crucial:** As a company, we're very involved with open source, we are active consumers and contributors to multiple projects. We feel so strongly about this that if we find that a particular internal library could be beneficial to the outside world, then we take the time to package it up and open source it as a standalone library (we did exactly this for a Django SAML2 authentication back end).
 
-## Openings
+# Open Jobs
 
-Current openings are in here [OPEN_JOBS.md](./OPEN_JOBS.md) which provide links to description in the `jobs/` directory.
+## Engineering
+
+* [JavaScript Developer (front-end focused)](./jobs/frontend_dev.md)
+* [Software Engineer (infrastructure focused)](./jobs/infrastructure_eng.md)
