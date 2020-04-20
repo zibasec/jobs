@@ -2,4 +2,5 @@
 
 ## Engineering
 
-* [JavaScript Developer (frontend focused)](./jobs/frontend_dev.md)
+* [JavaScript Developer (front-end focused)](./jobs/frontend_dev.md)
+* [Software Engineer (infrastructure focused)](./jobs/infrastructure_eng.md)
