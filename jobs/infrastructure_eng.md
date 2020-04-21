@@ -14,7 +14,6 @@ Some days you’d be working directly with the founders to architect the backend
 ## Core Requirements
 
 * US Citizen (at this time we cannot hire US residents or non-US persons)
-* Very comfortable with BASH
 * Experience in creating, deploying, and maintaining production serverless (or distributed) infrastructures, ideally in an AWS environment
 * Senior-level proficiency in 
   * At least one of (bonus for polyglots!):
