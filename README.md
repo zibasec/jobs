@@ -50,5 +50,4 @@ We are a growing company and can promise you the following:
 
 ## Engineering
 
-* [JavaScript Developer (front-end focused)](./jobs/frontend_dev.md)
 * [Software Engineer (infrastructure focused)](./jobs/infrastructure_eng.md)
